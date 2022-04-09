@@ -1,2 +1,2 @@
 # smart_contract
-only fuction use in android project
+My First smart contract !!
