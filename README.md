@@ -1,2 +1,2 @@
 # smart_contract
-My First smart contract !!
+first smart contract !!
